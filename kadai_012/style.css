@@ -335,11 +335,11 @@ li {
   margin: 20px;
 }
 .case-card {
-  color: #ffffff;
+  background-color: #ffffff;
   min-height: 400px;
   background-position-x: 5px;
   background-position-y: 5px;
-  box-shadow: 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
 }
 .case-img {
   width: 100%;
